@@ -1,1 +1,0 @@
-#define NFUT 100
